@@ -104,9 +104,6 @@ devmpu.ko
 cmdq-sec-drv.ko
 mtk-dvfsrc-start.ko
 cpudvfs.ko
-mtk_fpsgo.ko
-fpsgo.ko
-mtk_perf_ioctl.ko
 sspm_v3.ko
 mainaf.ko
 main2af.ko
@@ -143,16 +140,9 @@ cam_qos.ko
 mtk_cm_ipi.ko
 mtk_cm_mgr.ko
 mtk_cm_mgr_mt6789.ko
-uload_ind.ko
-load_track.ko
 vdec-fmt.ko
-cpufreq_sugov_ext.ko
-scheduler.ko
 cpuqos_v3.ko
 widevine_driver.ko
-mtk_core_ctl.ko
-mtk_perf_common.ko
-task_turbo.ko
 pmsr.ko
 spmtwam.ko
 mtk_disp_sec.ko
@@ -162,6 +152,5 @@ nfc_i2c.ko
 aw87xxx_main.ko
 snd-soc-fsm.ko
 transsion_tranlog.ko
-pnpmgr.ko
 lzo.ko
 lzo-rle.ko
